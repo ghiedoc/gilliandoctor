@@ -1,7 +1,7 @@
 You can visit the webpage in this link: https://ghiedoc.github.io/gilliandoctor/
 
 ## 👧 About Me
-Gillian Joanna Doctor
+* Gillian Joanna Doctor
 
 ## 🎒 Education
 * National University - Manila, Philippines
