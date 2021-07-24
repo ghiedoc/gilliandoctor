@@ -8,5 +8,5 @@ You can visit the webpage in this link: https://ghiedoc.github.io/gilliandoctor/
   * Bachelor of Science in Information Technology Major in Mobile Web Applications | 2018 - Present
 
 ## 📧Contact
-*ghiedoc@gmail.com
-*www.linkedin.com/in/gillian-doctor
+* ghiedoc@gmail.com
+* www.linkedin.com/in/gillian-doctor
