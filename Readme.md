@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/ghiedoc/gilliandoctor/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ghiedoc/gilliandoctor/actions/workflows/codeql-analysis.yml)
+
 You can visit the webpage in this link: https://ghiedoc.github.io/gilliandoctor/
 
 ## 👧About Me
